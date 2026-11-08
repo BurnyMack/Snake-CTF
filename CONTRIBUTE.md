@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Security Scripts! I welcome contr
 
 ### Reporting Issues
 
-If you encounter a bug or have a feature request, please [open an issue](https://github.com/BurnyMack/securityscripts/issues) on our GitHub repository. Please provide detailed information about the issue or request, including steps to reproduce, if applicable.
+If you encounter a bug or have a feature request, please [open an issue](https://github.com/BurnyMack/Security-Scripts/issues) on our GitHub repository. Please provide detailed information about the issue or request, including steps to reproduce, if applicable.
 
 ### Pull Requests
 
@@ -14,5 +14,5 @@ We welcome pull requests to fix issues or add new features. Here's how you can c
 2. Clone the forked repository to your local machine.
 
 ```bash
-git clone https://github.com/BurnyMack/securityscripts.git
+git clone https://github.com/BurnyMack/Security-Scripts.git
 ```
