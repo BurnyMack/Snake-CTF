@@ -17,3 +17,14 @@ Thumbs.db
 /build/
 /dist/
 /*.spec
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.fseventsd
+ehthumbs.db
+Desktop.ini
+*.lnk
+$RECYCLE.BIN/
+System Volume Information/
